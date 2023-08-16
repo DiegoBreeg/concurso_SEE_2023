@@ -2,7 +2,7 @@
 
 a. <strong>Primeira Etapa:</strong>
 
-<p style="text-align:center">Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos;</p>
+<p style="text-align:right">Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos;</p>
 
 b. <strong>Segunda Etapa:</strong>
 
