@@ -2,7 +2,7 @@
 
 
   <strong>Primeira Etapa:</strong>
-    `Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos;`
+    `<p>Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos;</p>`
 
   b. <strong>Segunda Etapa:</strong>
             Redação, de caráter eliminatório e classificatório, para todos os cargos;
