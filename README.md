@@ -1,10 +1,10 @@
 <h3>2.1 Etapas do concurso</h3>
 
 
-  <strong>Primeira Etapa:</strong>
+a. <strong>Primeira Etapa:</strong>
     `<p>Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos;</p>`
 
-  b. <strong>Segunda Etapa:</strong>
+b. <strong>Segunda Etapa:</strong>
             Redação, de caráter eliminatório e classificatório, para todos os cargos;
 
 c. <strong>Terceira Etapa:</strong>
