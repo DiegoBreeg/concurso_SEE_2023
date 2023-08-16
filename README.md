@@ -1,2 +1,10 @@
-<h1>Etapas do concurso</h3>
-a. <h3>Primeira Etapa:</h1>Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos
+<h3>Etapas do concurso</h3>
+
+<ol>
+  <li>a. <strong>Primeira Etapa:</strong>
+    <ol>
+        <li>
+        Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos
+        </li>
+    </ol>
+  </li>
