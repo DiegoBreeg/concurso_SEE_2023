@@ -2,10 +2,10 @@
 
 <ul>
   <li>a. <strong>Primeira Etapa:</strong>
-    <ul>
+  
         <li>
-        Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos
+        Prova Objetiva de múltipla escolha, de caráter eliminatório e classificatório, para todos os cargos.
         </li>
-    </ul>
+
   </li>
   <ul>
